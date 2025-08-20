@@ -5,3 +5,5 @@ git branch　で枝確認
 git switch　で枝移動
 
 Day2：いろいろ
+
+Commitたくさんやってみてるなう
