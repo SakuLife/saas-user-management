@@ -6,4 +6,4 @@ git switch　で枝移動
 
 Day2：いろいろ
 
-Commitたくさ
+Commitたくさんやってみてるなう
